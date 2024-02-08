@@ -5,4 +5,4 @@
 2.![image](https://github.com/MikVome/OrinaPrPr/assets/154685900/780328f0-eaed-4748-85ad-d7b5d0c6ff8a)这是截图
 3.Phira的下载链接我放维基（英文:Wiki）
 4.速度慢就去网盘,这里只有蓝奏云链接(那是因为作者没注册其他网盘，谅解):https://afanda.lanzouw.com/b04qw7x3g  密码:114514
-
+新版本可能会跟此版本不同
